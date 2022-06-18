@@ -1,0 +1,63 @@
+Define thermodynamic parameters:
+2_Cp
+1004.0
+4_R
+287.0
+6_k
+1.4
+
+Define design parameters:
+10_TT_in:
+297.3
+12_PT_in:
+101308.2
+14_G0d:
+3.00
+
+Define stage parameters:
+18_rows number:
+1
+20_RPM:
+1050
+22_Blade number:
+4
+24_inci_des(deg):
+0.0
+26_TIPclearance(mm):
+0.0
+
+Define mash parameters:
+30_NUM_m
+16
+32_q_transition:
+3,3
+34_q_blade
+12
+
+Define other parameters:
+38_Distribution form of streamline(MF_SPAN_D)
+0
+40_differ_m
+0.001
+
+Define circulation(Angular momentum) parameters:
+44_k1_AM
+1.6035
+46_k2_AM
+0.2544
+48_n_LE
+0.0
+50_k_LE
+0.0
+52_m_LE
+0.0
+54_n_TE
+0.972
+56_k_TE
+1.9492
+58_m_TE
+-0.9096
+60camber
+10
+62str
+46.3

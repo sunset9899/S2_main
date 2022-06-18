@@ -1,0 +1,11 @@
+function [Coord_R,Coord_Z] = R_Z_initial(R_num,Z_num)
+%R_Z_IN 此处显示有关此函数的摘要：生成RZ坐标，方法为等面积法
+%   此处显示详细说明
+Coord_Z=zeros(R_num,Z_num);
+
+Z_Shroud_1_length=(H_S(2,3)-H_S(1,3))/3;
+for i=1:1:3
+Z_shroud_1(i)=Z_shroud_1
+end
+end
+

@@ -1,0 +1,8 @@
+function [outputArg1,outputArg2] = int(x,Func)
+%INT 此处显示有关此函数的摘要 
+% x为积分yu'z Func为被积函数
+% 
+outputArg1 = inputArg1;
+outputArg2 = inputArg2;
+end
+
